@@ -9,9 +9,9 @@ paper_rock = ("paper", "rock")
 scissors_rock = ("scissors", "rock")
 paper_scissors = ("paper", "scissors")
 rock_paper = ("rock", "paper")
-tie = ('rock', 'rock')
-tie1 = ('paper', 'paper')
-tie2 = ('scissors', 'scissors')
+tie = ("rock", "rock")
+tie1 = ("paper", "paper")
+tie2 = ("scissors", "scissors")
 
 
 play = (player_one, player_two)
