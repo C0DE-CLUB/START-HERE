@@ -1,5 +1,7 @@
+# Welcome to the Fairchild-Coding-Club Sign_Up Sheet
+
 If you are interested in joining the Fairchild-Coding-Club,
-Please sign up by editing this file. NA for squdron if non-active duty.
+**Please sign up by editing this file.** *NA for squdron if non-active duty.*
 Add your name and squadron on a seprate line followed by your username then scroll down to propose changes. 
 You will be brought up up to a comparing changes page, create pull request to commit to a merger file change!
 Pull-requests will be viewed daily, I will then add you as a collaborater so you can edit, create and share with everyone else.
@@ -16,4 +18,4 @@ Pull-requests will be viewed daily, I will then add you as a collaborater so you
 
 [6.]
 
-For a guide to sign up visit this link: https://bit.ly/FCSignUpTutorial
+- For a guide to sign up visit this link: https://bit.ly/FCSignUpTutorial
