@@ -4,9 +4,9 @@ Add your name and squadron on a seprate line followed by your username then scro
 You will be brought up up to a comparing changes page, create pull request to commit to a merger file change!
 Pull-requests will be viewed daily, I will then add you as a collaborater so you can edit, create and share with everyone else.
 
-Hector Garibay, 92LRS, TyphonMedia
-Derek Kirby, 92CS, TzZek
-Victor Lozoya, 92CS, Saucy
-Vagedes Joey, 92CS, javagedes
+Hector Garibay, 92LRS, TyphonMedia:
+Derek Kirby, 92CS, TzZek:
+Victor Lozoya, 92CS, Saucy:
+Vagedes Joey, 92CS, javagedes:
 
 For a guide to sign up visit this link: https://bit.ly/FCSignUpTutorial
