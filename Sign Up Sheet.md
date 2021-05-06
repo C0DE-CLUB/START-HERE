@@ -16,6 +16,6 @@ Pull-requests will be viewed daily, I will then add you as a collaborater so you
 
 [5.] Mack Andrew, 92CES, buzzdrew7
 
-[6.]
+[6.] Rose, Connor, 92 OMRS, connor-rose
 
 - For a guide to sign up visit this link: https://bit.ly/FCSignUpTutorial
