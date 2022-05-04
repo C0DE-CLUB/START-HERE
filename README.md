@@ -1,4 +1,4 @@
-# Fairchild-Coding-Club
+# Coding-Club
 The Coding Club is the place to take that interest in technology, and turn it into a productive skill. 
 This club will introduce you to the basics of coding with python and exploration in video game development and much more in a team setting.
 
